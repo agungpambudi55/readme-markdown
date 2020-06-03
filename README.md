@@ -1,7 +1,7 @@
 # Readme Markdown
 Markdown adalah sintaks yang ringan dan mudah digunakan untuk menata semua bentuk penulisan pada platform GitHub.
 
-[ [Lihat Markdown](https://raw.githubusercontent.com/agungpambudi55/readme-markdown/master/README.md) ]
+[ [Lihat Markdown](https://github.com/agungpambudi55/readme-markdown/raw/master/README.md) ]
 
 ## JUDUL
 
