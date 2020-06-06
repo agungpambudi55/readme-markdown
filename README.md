@@ -18,3 +18,19 @@ Satu paragraf deskripsi ada di sini.
 
 ###### Judul Tingkat Enam
 Satu paragraf deskripsi ada di sini.
+
+## TEKS
+Membuat teks menjadi **tebal**,*miring*, dan ~~coret~~
+
+## DAFTAR
+#### Nomor
+1. Satu
+2. Dua
+3. Tiga
+
+#### Bullet
+* Satu
+* Dua
+* Tiga
+  * Empat
+  * Lima
