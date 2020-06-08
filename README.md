@@ -34,3 +34,13 @@ Membuat teks menjadi **tebal**,*miring*, dan ~~coret~~
 * Tiga
   * Empat
   * Lima
+
+## CHECKBOX
+- [x] Ini adalah item tercentang
+- [ ] Ini adalah item yang tidak tercentang
+
+## TABEL
+KOLOM SATU|KOLOM DUA|
+----------|---------|
+Baris 1   |Baris 1  |
+Baris 2   |Baris 2  |
