@@ -50,9 +50,19 @@ Baris 5   |Baris 5  |
 
 ## KONTEN
 ```
-Konten satu
+Konten sintaks
 ```
 
 `
-Konten dua
+Konten highlight
 `
+
+## UKURAN PROYEK
+![code size][codesize-url]
+
+## GAMBAR  
+![Gambar][gambar-url]
+
+<!-- MARKDOWN LINKS -->
+[codesize-url]: https://img.shields.io/github/languages/code-size/agungpambudi55/FLoWRTOS-on-iMX6SX
+[gambar-url]: https://github.githubassets.com/images/modules/open_graph/github-octocat.png
