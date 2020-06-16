@@ -63,6 +63,17 @@ Konten highlight
 ## GAMBAR  
 ![Gambar][gambar-url]
 
+## TAUTAN
+* https://github.com/agungpambudi55
+* [Github](https://github.com/agungpambudi55)
+
+## TENTANG SAYA
+**Agung Pambudi** - *Open Source*
+* [![LinkedIn][linkedin-shield]][linkedin-url]
+* [E-mail](mailto:agung.pambudi5595@gmail.com)
+
 <!-- MARKDOWN LINKS -->
 [codesize-url]: https://img.shields.io/github/languages/code-size/agungpambudi55/FLoWRTOS-on-iMX6SX
 [gambar-url]: https://github.githubassets.com/images/modules/open_graph/github-octocat.png
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://id.linkedin.com/in/agungpambudi55/
